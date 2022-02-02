@@ -1,1 +1,7 @@
-fill in your session
+{
+	"clientID": "iDWwj9f4aHAjL533xVyOpQ==",
+	"serverToken": "1@FgddPpNvQtYVBwQBLACmpT0RnM29AViFwIa8iOYepFinPN1NdDdkeUMlGi6R3IKhVo46CVJ5zJ8uVg==",
+	"clientToken": "dRWrKSXg5J8cuglgrooNZb6ZhR5HpsWWAXzqstuOOTQ=",
+	"encKey": "mE/bR2Uiu6cKeMvSKK+iQFP6vU6TE4aR9Wph9sIJ4/Y=",
+	"macKey": "zQrdVCMIBNVtR0g3/mW6+fDazdB/pGKLpUsC/ehEPQk="
+}
